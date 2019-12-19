@@ -1,5 +1,3 @@
-# budgetcalc
-A Finance Calculator
 import os
 import sys
 
